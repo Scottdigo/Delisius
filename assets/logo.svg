@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 114 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-35.8268,-196.371)">
+        <g transform="matrix(1,0,0,1,16.4984,44.6911)">
+            <text x="55.588px" y="170.256px" style="font-family:'Barlow-MediumItalic', 'Barlow';font-weight:500;font-style:italic;font-size:23.451px;stroke:black;stroke-width:1px;">Delisius</text>
+        </g>
+        <g>
+            <g transform="matrix(0.820222,0,0,0.820222,3.26113,64.0537)">
+                <path d="M60.201,179.387C61.793,174.126 64.977,174.126 66.569,175.26C68.161,176.395 68.161,178.663 66.569,180.932C65.454,182.633 62.589,184.335 60.201,185.469C57.813,184.335 54.948,182.633 53.833,180.932C52.241,178.663 52.241,176.395 53.833,175.26C55.425,174.126 58.609,174.126 60.201,179.387Z" style="stroke:black;stroke-width:1.81px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(5.02241e-17,0.820222,-0.820222,5.02241e-17,188.693,157.273)">
+                <path d="M60.201,179.387C61.793,174.126 64.977,174.126 66.569,175.26C68.161,176.395 68.161,178.663 66.569,180.932C65.454,182.633 62.589,184.335 60.201,185.469C57.813,184.335 54.948,182.633 53.833,180.932C52.241,178.663 52.241,176.395 53.833,175.26C55.425,174.126 58.609,174.126 60.201,179.387Z" style="stroke:black;stroke-width:1.81px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(5.02241e-17,-0.820222,0.820222,5.02241e-17,-83.4144,256.03)">
+                <path d="M60.201,179.387C61.793,174.126 64.977,174.126 66.569,175.26C68.161,176.395 68.161,178.663 66.569,180.932C65.454,182.633 62.589,184.335 60.201,185.469C57.813,184.335 54.948,182.633 53.833,180.932C52.241,178.663 52.241,176.395 53.833,175.26C55.425,174.126 58.609,174.126 60.201,179.387Z" style="stroke:black;stroke-width:1.81px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(-0.820222,1.00448e-16,-1.00448e-16,-0.820222,102.018,349.237)">
+                <path d="M60.201,179.387C61.793,174.126 64.977,174.126 66.569,175.26C68.161,176.395 68.161,178.663 66.569,180.932C65.454,182.633 62.589,184.335 60.201,185.469C57.813,184.335 54.948,182.633 53.833,180.932C52.241,178.663 52.241,176.395 53.833,175.26C55.425,174.126 58.609,174.126 60.201,179.387Z" style="stroke:black;stroke-width:1.81px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+            </g>
+        </g>
+    </g>
+</svg>
